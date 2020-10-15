@@ -1,8 +1,8 @@
 ---
-title: "Allan Lab - Home"
+title: "ML4ITS - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
-sitemap: false
+excerpt: "ML4ITS - Machine Learning for Irregular Time Series"
+sitemap: true
 permalink: /
 ---
 
