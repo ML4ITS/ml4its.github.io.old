@@ -9,7 +9,7 @@ permalink: /
 
 (More details in [Research](research))
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ml4its.png" style="float: right;width: 120px"> Time series are everywhere. Data recorded from sensors in mobile phones, financial data like accounting figures and climate indicators are all examples of time series society and individuals are exposed to daily. Understanding such time series are essential for technological advance and making informed decisions. 
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ml4its.png" style="float: right;width: 140px"> Time series are everywhere. Data recorded from sensors in mobile phones, financial data like accounting figures and climate indicators are all examples of time series society and individuals are exposed to daily. Understanding such time series are essential for technological advance and making informed decisions. 
 
 Many of these time series are irregular in some sense. They may have missing data, which may occur if sensors fail, if a person forgets to insert a number in a spreadsheet, or if the phenomenon we are interested in may only be observed at certain points in time. They may also be very noisy: for example, using cheap sensors may allow us to get data from more sensors at the expense of the measurement having more noise than when using a more expensive sensor. 
 
