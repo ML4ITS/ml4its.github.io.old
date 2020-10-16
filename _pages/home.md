@@ -36,8 +36,3 @@ We are grateful for funding from [The Research Council of Norway](href="https://
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ailab.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nfr.png" style="width: 110px">
 </figure>
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/telenor.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/refinitiv.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/exabel.png" style="width: 140px">
-</figure>
