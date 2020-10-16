@@ -9,7 +9,7 @@ permalink: /
 
 (More details in [Research](research))
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ml4its.jpg" style="width: 210px"> Time series are everywhere. Data recorded from sensors in mobile phones, financial data like accounting figures and climate indicators are all examples of time series society and individuals are exposed to daily. Understanding such time series are essential for technological advance and making informed decisions. 
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ml4its.png" style="width: 210px"> Time series are everywhere. Data recorded from sensors in mobile phones, financial data like accounting figures and climate indicators are all examples of time series society and individuals are exposed to daily. Understanding such time series are essential for technological advance and making informed decisions. 
 
 Many of these time series are irregular in some sense. They may have missing data, which may occur if sensors fail, if a person forgets to insert a number in a spreadsheet, or if the phenomenon we are interested in may only be observed at certain points in time. They may also be very noisy: for example, using cheap sensors may allow us to get data from more sensors at the expense of the measurement having more noise than when using a more expensive sensor. 
 
@@ -35,4 +35,9 @@ We are grateful for funding from [The Research Council of Norway](href="https://
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ntnu.png" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ailab.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nfr.png" style="width: 110px">
+</figure>
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/telenor.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/refinitiv.png" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/exabel.png" style="width: 120px">
 </figure>
