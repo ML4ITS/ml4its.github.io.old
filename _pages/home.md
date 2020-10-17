@@ -27,13 +27,16 @@ permalink: /
     <div class="carousel-inner" markdown="0">
 
         <div class="item active" >
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res2.png"  style="text-align: center;height: 160px" alt="Slide 1" /></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res5.png"  style="text-align: center;height: 160px" alt="Slide 1" /></center>
         </div>
         <div class="item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res3.png" style="text-align: center;height: 160px" alt="Slide 2" /></center>
         </div>
         <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res5.png" style="text-align: center;height: 160px" alt="Slide 3" /></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res2.png" style="text-align: center;height: 160px" alt="Slide 3" /></center>
+        </div>
+        <div class="item">
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res1.png" style="text-align: center;height: 160px" alt="Slide 4" /></center>
         </div>
         <div class="item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res1.jpg" style="text-align: center;height: 160px" alt="Slide 4" /></center>
