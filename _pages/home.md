@@ -14,6 +14,41 @@ permalink: /
 
 **Time series** are everywhere. Data recorded from **sensors** in **mobile phones**, **financial data** like accounting figures and **climate indicators** are all examples of time series society and individuals are exposed to daily. Understanding such time series are essential for technological advance and making informed decisions. 
 
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+    <!-- Menu -->
+    <!--<ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+    </ol> !-->
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+
+        <div class="item active" >
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res2.png"  style="text-align: center;height: 160px" alt="Slide 1" /></center>
+        </div>
+        <div class="item">
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res3.png" style="text-align: center;height: 160px" alt="Slide 2" /></center>
+        </div>
+        <div class="item">
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res5.png" style="text-align: center;height: 160px" alt="Slide 3" /></center>
+        </div>
+        <div class="item">
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res1.jpg" style="text-align: center;height: 160px" alt="Slide 4" /></center>
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
 Many of these time series are **irregular** in some sense. They may have **missing data**, which may occur if sensors fail, if a person forgets to insert a number in a spreadsheet, or if the phenomenon we are interested in may only be observed at certain points in time. They may also be **very noisy:** for example, using cheap sensors may allow us to get data from more sensors at the expense of the measurement having more noise than when using a more expensive sensor. 
 
 The project **Machine Learning for Irregular Time Series** (ML4ITS) addresses some core challenges for irregular time series. In particular, the project develop methodology that handles irregular time series for the following tasks:
