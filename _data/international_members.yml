@@ -1,13 +1,13 @@
 - name: Antonio Ortega 
-  photo: antonio.jpg
+  photo: antonio.jpeg
   info: Professor (USC, University of Southern California)
   email: aortega@usc.edu
   number_educ: 0
   education1: Ph.D, Computer Science Department, NTNU
 
 - name: Claudio Gallicchio 
-  photo: claudio.png
-  info:Assistant Professor (University of Pisa)
+  photo: claudio.jpg
+  info: Assistant Professor (University of Pisa)
   email: simpson@utstat.toronto.edu
   number_educ: 0
   education1: Ph.D, Statistical Department, NTNU
