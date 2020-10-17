@@ -66,8 +66,9 @@ The last point addresses the need for creating datasets that are **privacy prese
 The project is a collaboration between [Sintef Digital](https://www.sintef.no/digital/) and three departments at [NTNU](https://www.ntnu.edu/): [Department of Computer Science](https://www.ntnu.edu/idi), [Department of Mathematical Sciences](https://www.ntnu.edu/imf) and [Department of Electronic Systems](https://www.ntnu.edu/ies).
 
 
- **We are  hiring two PhD students and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ <!-- **We are  hiring two PhD students and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
+**We are looking for Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 We are grateful for funding from [The Research Council of Norway](href="https://www.forskningsradet.no/")</a> within the IKTPLUSS initiative. .
 
