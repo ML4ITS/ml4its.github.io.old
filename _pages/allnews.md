@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "ML4ITS - Machine Learning for Irregular Time Series"
 sitemap: false
 permalink: /allnews.html
 ---
