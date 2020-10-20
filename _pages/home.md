@@ -70,7 +70,7 @@ The project is a collaboration between [Sintef Digital](https://www.sintef.no/di
 
 **We are looking for Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-We are grateful for funding from [The Research Council of Norway](href="https://www.forskningsradet.no/")</a> within the IKTPLUSS initiative. .
+We are grateful for funding from [The Research Council of Norway](href="https://www.forskningsradet.no/") within the IKTPLUSS initiative. .
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sintef.png" style="width: 180px">
