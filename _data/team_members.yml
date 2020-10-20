@@ -1,39 +1,39 @@
 - name: Massimiliano Ruocco (PI, WP1 Leader)
   photo: massimiliano.jpg
-  info: Adj. Associate professor (DART@IDI, NTNU) / Senior Researcher (Sintef Digital)
+  info: Adj. Associate professor (IDI - NTNU) / Senior Researcher (Sintef Digital)
   email: massimiliano.ruocco@sintef.no
   number_educ: 0
   education1: Ph.D, Computer Science Department, NTNU
 
 - name: Erlend Aune (Co-PI, WP2 Leader)
   photo: erlend.png
-  info: Adj. Associate professor (MATH, NTNU)
+  info: Adj. Associate professor (IMF - NTNU)
   email: erlend.aune@ntnu.no
   number_educ: 0
   education1: Ph.D, Statistical Department, NTNU
 
 - name: Pierluigi Salvo Rossi (WP3 Leader)
   photo: pigi.jpg
-  info: Professor (IES@IME, NTNU)
+  info: Professor (IES - NTNU)
   email: pierluigi.salvorossi@ntnu.no
   number_educ: 0
   education1: PhD XXX, University of Napoli
 
 - name: Jo Eidsvik
   photo: jo.jpg
-  info: Professor (MATH, NTNU)
+  info: Professor (IMF - NTNU)
   email: jo.eidsvik@ntnu.no
   number_educ: 0
 
 - name: Helge Langseth 
   photo: helge.jpg
-  info: Professor (DART@IDI, NTNU)
+  info: Professor (IDI - NTNU)
   email: jo.eidsvik@ntnu.no
   number_educ: 0
 
 - name: Heri Ramampiaro 
   photo: heri.jpg
-  info: Professor (DART@IDI, NTNU)
+  info: Professor (IDI - NTNU)
   email: heri@ntnu.no
   number_educ: 0
 
