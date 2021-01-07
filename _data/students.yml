@@ -15,3 +15,10 @@
   number_educ: 0
   education1:
 
+- name: William Kvaale / Axel Harstad (Master Student)
+  photo: rock.jpg
+  info: Title of the thesis - *"Spatio-Temporal Graph Attention Network for Anomaly Detection in Telco Domain"*
+  email: wekvaale@stud.ntnu.no
+  number_educ: 0
+  education1:
+
