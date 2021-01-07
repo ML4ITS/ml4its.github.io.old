@@ -153,7 +153,7 @@ Jump to [staff](#staff), [international partners](#international-partners), [mas
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  {{ member.info }}<br>email: <b><{{ member.email }}></b> <br>Supervisor(s): <b>{{ member.supervisors }}</b><br><b>Year:</b> {{ member.year }}
+  <b>Title of the Thesis</b>: {{ member.info }}<br><b>email:</b> <{{ member.email }}> <br><b>Supervisor(s):</b> {{ member.supervisors }}<br><b>Year:</b> {{ member.year }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}

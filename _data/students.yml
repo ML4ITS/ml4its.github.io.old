@@ -12,7 +12,7 @@
 
 - name: Sigurd Vang (Master Student)
   photo: rock.jpg
-  info: Title of the thesis - *"GANs for Syntetic Data Generation in Telco"*
+  info: "GANs for Syntetic Data Generation in Telco"
   email: sigurd.vang@stud.ntnu.no
   year: 2021
   supervisors: Massimiliano Ruocco / Sara Malacarne
@@ -21,7 +21,7 @@
 
 - name: William Kvaale / Axel Harstad (Master Student)
   photo: rock.jpg
-  info: Title of the thesis - *"Spatio-Temporal Graph Attention Network for Anomaly Detection in Telco Domain"*
+  info: "Spatio-Temporal Graph Attention Network for Anomaly Detection in Telco Domain"
   email: wekvaale@stud.ntnu.no
   year: 2021
   supervisors: Massimiliano Ruocco / Sara Malacarne / Claudio Gallicchio
