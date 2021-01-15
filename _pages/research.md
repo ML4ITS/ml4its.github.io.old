@@ -28,3 +28,11 @@ The goal of this project is to overcome the issue of limited available or labell
 
 
 The **tasks** that will be performed for irregular time series are 1) **data imputation and denoising**, 2) **synthetic data generation**, 3) **time series forecasting and classification** and 4) **anomaly detection** and **failure prediction**, including the **quantification of uncertainties** for each task in question. We plan to achieve these goals by developing novel A) **Transfer Learning** and B) **Unsupervised learning** and **Data Augmentation methods**. These techniques have **hardly been explored in the time series domain**.
+
+#Workpackages
+
+- **WP1 - Transfer Learning and Few-Shot Learning for Time Series Analysis**
+
+- **WP2 - Unsupervised Methods and Data Augmentation for Time Series Analysis**
+
+- **WP3 - Graph Signal Processing (GSP) for Time Series Analysis**
